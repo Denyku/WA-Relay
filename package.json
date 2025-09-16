@@ -1,0 +1,14 @@
+{
+  "name": "wa-personal-relay",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "^1.21.2",
+    "qrcode-terminal": "^0.12.0",
+    "nodemailer": "^6.9.13",
+    "mime-types": "^2.1.35"
+  }
+}
